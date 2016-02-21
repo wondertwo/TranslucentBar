@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TranslucentBarTest</string>
+    <string name="colorTranslucentBar">Color Translucent Bar Training</string>
+    <string name="imageTranslucentBar">Image Translucent Bar Training</string>
+
+</resources>
